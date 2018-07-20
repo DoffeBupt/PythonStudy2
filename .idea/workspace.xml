@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd4951d6-6cd6-456d-834f-e0966e43c5a1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/NotesOfClass020_funcs++" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesOfClass020_funcs++" beforeDir="false" afterPath="$PROJECT_DIR$/NotesOfClass020_funcs++" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,8 +43,8 @@
       <file leaf-file-name="NotesOfClass020_funcs++" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NotesOfClass020_funcs++">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
+            <state relative-caret-position="492">
+              <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -156,8 +155,8 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Python Console" visible="true" weight="0.3295063" />
-      <window_info anchor="bottom" id="Terminal" weight="0.33180252" />
+      <window_info anchor="bottom" id="Python Console" weight="0.3295063" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.33180252" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973205" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
@@ -218,8 +217,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NotesOfClass020_funcs++">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
+        <state relative-caret-position="492">
+          <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
         </state>
       </provider>
     </entry>
