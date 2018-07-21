@@ -24,3 +24,25 @@ def fun_Q2(x):
 
 list(filter(lambda x : not(x%3) , range(100)))
 # not大法好hhh
+
+# Q4:用列表推导式
+list(x for x in range(100) if not(x%3))
+
+# Q5:
+list(zip([1, 3, 5, 7, 9], [2, 4, 6, 8, 10]))
+ans = [(1, 2), (3, 4), (5, 6), (7, 8), (9, 10)]
+# map 返回的是结果，后边依次丢进去的是各个参数的定义域
+list(map(lambda x, y : [x, y], [1, 3, 5, 7, 9], [2, 4, 6, 8, 10]))
+ans = [[1, 2], [3, 4], [5, 6], [7, 8], [9, 10]]
+
+# Q6：
+def make_repeat(n):
+    return lambda s: s * n
+
+
+double = make_repeat(2)
+print(double(8))
+print(double('FishC'))
+
+# 会返回16，fishcfishc
+# 闭包，字符串成二等于重复两遍
