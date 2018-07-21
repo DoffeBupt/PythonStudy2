@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd4951d6-6cd6-456d-834f-e0966e43c5a1" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Class025_Dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotesOfClass025_Dictionary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q&amp;A_Class025_Dictionary" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class15_Recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class022_Recursion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotesOfClass022_recursion" beforeDir="false" afterPath="$PROJECT_DIR$/NotesOfClass022_recursion" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,24 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Q&amp;A_Class20" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Q&amp;A_Class20">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Q&amp;A_Class21" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Q&amp;A_Class21">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Class21.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Class21.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -74,11 +57,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NotesOfClass022_recursion" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NotesOfClass022_recursion" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NotesOfClass022_recursion">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="461">
               <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Class025_Dictionary.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Class025_Dictionary.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="4" selection-start-column="4" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NotesOfClass025_Dictionary" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NotesOfClass025_Dictionary">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="78" selection-start-line="78" selection-end-line="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q&amp;A_Class025_Dictionary" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Q&amp;A_Class025_Dictionary">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -133,6 +143,9 @@
         <option value="$PROJECT_DIR$/NotesOfClass022_DIGUI.py" />
         <option value="$PROJECT_DIR$/Class15_Recursion.py" />
         <option value="$PROJECT_DIR$/NotesOfClass022_recursion" />
+        <option value="$PROJECT_DIR$/Class025_Dictionary.py" />
+        <option value="$PROJECT_DIR$/NotesOfClass025_Dictionary" />
+        <option value="$PROJECT_DIR$/Q&amp;A_Class025_Dictionary" />
       </list>
     </option>
   </component>
@@ -289,9 +302,9 @@
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3295063" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.3295063" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3295063" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33409873" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33409873" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17524116" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
@@ -450,6 +463,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="461">
           <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class025_Dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NotesOfClass025_Dictionary">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q&amp;A_Class025_Dictionary">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>

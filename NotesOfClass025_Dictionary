@@ -1,0 +1,82 @@
+字典：一对一的映射关系
+字典是映射类型，不同于　元组列表字符串
+字典用大括号括起来，前为键，后为值，输入键，输出值
+dict1 = {'aaa':1, 'bbb':2, 'ccc':3. 'ddd':4}
+比如：引用的话直接访问键就可以
+print(dict1['aaa'])
+[也可以直接在这里赋值，比如dict1['aaa']=1]
+字典的最关键的字符是｛
+dict建立
+dict3 = dict((('f',70),('g',80),('m',90)))
+dict(一个参数，是映射形式的参数)
+
+或者是
+dict4 = dict(a='1',b='2')
+注意，键不能为表达式（带引号）
+dict4['a']='1' ==> 原来键为a对应的那个值就被替换掉了
+dict4['c']='3' ==> 新增了hhh
+
+fromkeys(...)
+默认建立一个只有键的东东
+dict1={}
+dict1.fromkeys((1,2,3,4))
+Out[65]: {1: None, 2: None, 3: None, 4: None}
+
+dict1.fromkeys((1,2,3,4),'number')
+Out[66]: {1: 'number', 2: 'number', 3: 'number', 4: 'number'}
+仿佛只能批量，重新创立一个，键不同值一样的东东
+而且还得去赋值！！！
+
+访问字典的几个方法：
+keys
+values
+items
+
+keys：
+dict1 = {}
+dict2 = dict1.fromkeys(range(32),'赞')
+
+for eachkey in dict2.keys():
+    print(eachkey)
+
+同理。。。
+eachvalue in dict2.values():
+    ...
+
+items:每一项按元组打印出来
+for eachkey in dict2.items():
+    print(eachkey)
+
+但是如果去找没有键的东东，肯定会报错
+所以有了get方法
+dict1.get(31)-->赞
+dict1.get(32)-->None
+dict1.get(32,'木有')-->木有
+
+或者是， 31 in dict1 --> True
+注意，查找的是键
+
+清空字典：dict1.clear()
+不过不推荐 dict1 = {}，这个做法相当于把a重新指向了一个新的空字典
+clear相当于把那个内存的东东全弄掉
+如果之前b=a，那么b里边东东还在
+
+id()查位置在哪
+拷贝：a.copy()
+相当于新分配一块内存放这个数据
+这样子不会因为a再变而跟着一起变
+
+pop(键)
+丢那一对
+
+popitem()
+随机弹一对
+（实际上不是，不过因为字典中数据没有顺序，所以可以理解为随机弹出）
+
+a.setdefalut(键，值)
+只有一个的话是丢个键，值为None
+有点像append，加进去一对
+
+update
+a.update(b)
+把b里所有的东西加到a里
