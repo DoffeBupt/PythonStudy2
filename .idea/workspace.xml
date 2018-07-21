@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd4951d6-6cd6-456d-834f-e0966e43c5a1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Class025_Dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NotesOfClass025_Dictionary" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q&amp;A_Class025_Dictionary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotesOfClass027_Set" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,15 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Class21.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Class21.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Class015_StringFormat.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Class015_StringFormat.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -84,11 +73,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Q&amp;A_Class025_Dictionary" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Q&amp;A_Class025_Dictionary" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Q&amp;A_Class025_Dictionary">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="174">
+              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NotesOfClass027_Set" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NotesOfClass027_Set">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -146,6 +144,7 @@
         <option value="$PROJECT_DIR$/Class025_Dictionary.py" />
         <option value="$PROJECT_DIR$/NotesOfClass025_Dictionary" />
         <option value="$PROJECT_DIR$/Q&amp;A_Class025_Dictionary" />
+        <option value="$PROJECT_DIR$/NotesOfClass027_Set" />
       </list>
     </option>
   </component>
@@ -482,8 +481,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Q&amp;A_Class025_Dictionary">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        <state relative-caret-position="174">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NotesOfClass027_Set">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
         </state>
       </provider>
     </entry>
