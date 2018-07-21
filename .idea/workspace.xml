@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd4951d6-6cd6-456d-834f-e0966e43c5a1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Class15_Recursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NotesOfClass022_recursion" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class15_Recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class022_Recursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotesOfClass022_recursion" beforeDir="false" afterPath="$PROJECT_DIR$/NotesOfClass022_recursion" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -74,20 +74,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NotesOfClass022_recursion" pinned="false" current-in-tab="false">
+      <file leaf-file-name="NotesOfClass022_recursion" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NotesOfClass022_recursion">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="461">
+              <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Class15_Recursion.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Class15_Recursion.py">
+      <file leaf-file-name="Class022_Recursion.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Class022_Recursion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+            <state relative-caret-position="377">
+              <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -131,8 +131,8 @@
         <option value="$PROJECT_DIR$/NotesOfClass015_Format" />
         <option value="$PROJECT_DIR$/Q&amp;A_Class15" />
         <option value="$PROJECT_DIR$/NotesOfClass022_DIGUI.py" />
-        <option value="$PROJECT_DIR$/NotesOfClass022_recursion" />
         <option value="$PROJECT_DIR$/Class15_Recursion.py" />
+        <option value="$PROJECT_DIR$/NotesOfClass022_recursion" />
       </list>
     </option>
   </component>
@@ -211,7 +211,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class15_Recursion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class022_Recursion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,8 +290,8 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3295063" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295063" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33409873" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295063" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33409873" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17524116" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
@@ -439,17 +439,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NotesOfClass022_recursion">
+    <entry file="file://$PROJECT_DIR$/Class022_Recursion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="377">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class15_Recursion.py">
+    <entry file="file://$PROJECT_DIR$/NotesOfClass022_recursion">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+        <state relative-caret-position="461">
+          <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
         </state>
       </provider>
     </entry>

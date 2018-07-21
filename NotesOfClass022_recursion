@@ -48,3 +48,6 @@ def feibo1(n):
 
 for i in range(110):
     print('第%d个斐波那契数列值为:%d'%(i+1,feibo1(i+1)))
+
+汉诺塔问题：
+    待续
