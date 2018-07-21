@@ -1,0 +1,65 @@
+条件表达式！
+python2.5以后的
+small = x if x<y else y
+可以理解为
+if x < y:
+    small = x
+else :
+    small = y
+一大坨判断赋值一句话搞定
+if 成立，走前边一坨
+
+断言：
+assert
+当这句话炸了，程序自己崩溃，报错
+一般用来检查哪里有BUG
+
+for:
+
+    如果for i in 列表或者数组，那么每一个i是一个元素
+    比如 for i in ['abd','ss','wws','sad']
+    for i in ['abd','ss','wws','sad']:
+        print(i,len(i))
+    输出：
+    abd 3
+    ss 2
+    wws 3
+    sad 3
+
+range(2,9)
+没有最后那个
+是2-8
+
+break:
+终止循环跳出循环体
+
+continue:
+终止本轮循环，并且进入下一轮循环
+
+列表推导式！！！
+>>> list1 = [x**2 for x in range(10)]
+>>> list1
+[0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+
+question:
+list1 = [(x, y) for x in range(10) for y in range(10) if x%2==0 if y%2!=0]
+(if 接 if)
+Answer:
+a = []
+for x in range(10):
+    for y in range(10):
+        if x%2 ==0:
+            if y%2!=0:
+                a.append((x,y))
+            else:
+                continue
+        else:
+            continue
+print(a)
+
+
+list3 = [name + '：' + slogan[2:] for slogan in list1 for name in list2 if slogan[0] == name[0]]
+
+list3 = [name + ":" + slogan[2:] for slogan in list 1 for name in list2 if slogan[0]==name[0]]
+
+
