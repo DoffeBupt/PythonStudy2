@@ -1,0 +1,41 @@
+lambda形式
+
+def: fun(x)
+    return x+1
+等价于
+lambda x : x+1
+一般用法
+fun = lambda x:x+1
+[注意前边已经默认传参进入了，所以不用写参数]
+此外也可以在一些小地方用
+比如filter函数或者map函数
+
+filter函数
+用法filter(fun();[list])
+把list中的元素一个个带入到前边的方程中
+并且返回list中所有能让前边为真的那些东西
+(非0的东西)
+注意，
+1.最后再用list包一下
+2.filter中函数不用写传参，会从后边自己导入
+3.fun可以直接用lambda表达式代替
+
+list(filter(None,[0,1,2,3,4]))
+    Out[2]: [1, 2, 3, 4]
+
+list(filter(lambda x:x+2,[0,1,2,3,4]))
+    Out[3]: [0, 1, 2, 3, 4]
+
+list(filter(lambda x:x>2,[0,1,2,3,4]))
+    Out[4]: [3, 4]
+
+list(filter(lambda x:x>2,range(5)))
+    Out[5]: [3, 4]
+
+list(filter(fun,range(5)))
+    Out[7]: [0, 1, 2, 3, 4]
+
+map：返回返回值
+
+list(map(fun,range(5)))
+    Out[8]: [2, 3, 4, 5, 6]
