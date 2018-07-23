@@ -1,0 +1,12 @@
+本节课主要是讲怎么看文档
+time.__doc__
+或者 print(time.__doc__)
+看有什么方法：
+print(dir(timeit))
+print(time.__all__)
+显示出可被外界调用的所有内容
+不是所有的函数、模块都有这个，一般比较规范的小伙伴会有写
+此外，import * 是只导入__all__的
+time.__file__看那个包在哪里
+还有
+help(timeit)也可以
